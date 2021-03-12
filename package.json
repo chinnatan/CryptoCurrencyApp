@@ -1,0 +1,22 @@
+{
+  "name": "cryptocurrencyapp",
+  "version": "1.0.0",
+  "description": "crypto currency app for a alert into more app chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinnatan/CryptoCurrencyApp.git"
+  },
+  "author": "zKCNT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinnatan/CryptoCurrencyApp/issues"
+  },
+  "homepage": "https://github.com/chinnatan/CryptoCurrencyApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
